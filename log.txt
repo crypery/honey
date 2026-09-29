@@ -1,0 +1,1 @@
+2026/09/07 16:39:46 [MYSQL] 127.0.0.1 login attempt: user=[root] auth=[]

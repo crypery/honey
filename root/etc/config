@@ -1,0 +1,9 @@
+# BCM96318 router configuration
+wan_ip=192.168.1.10
+lan_ip=192.168.2.1
+admin_user=admin
+admin_pass=admin
+wifi_ssid=NETGEAR-5G
+wifi_key=SuperSecret123
+telnet_enabled=1
+remote_access=1

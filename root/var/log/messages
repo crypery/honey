@@ -1,0 +1,4 @@
+Sep 06 10:00:01 BCM96318 kernel: system boot complete
+Sep 06 10:05:23 BCM96318 telnetd: login attempt for admin from 203.0.113.5
+Sep 06 10:07:44 BCM96318 telnetd: login attempt for root from 198.51.100.7
+Sep 06 11:12:09 BCM96318 kernel: watchdog reset
